@@ -10,3 +10,4 @@ st.write(
 
 name_on_order = st.text_input("Name of Smoothie:")
 st.write("The name of your Smoothie will be:", name_on_order)
+st.write("The name of your Smoothie will be:", name_on_order)
